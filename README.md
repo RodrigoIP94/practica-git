@@ -16,9 +16,9 @@
   const numeroRandom = Math.floor((Math.random() * (100 - 1 + 1)) + 1);
 ```
 
- - usar esta variable para determinar si el numero es par o impar (Un numero es par si el resto de la división sobre 2 es igual a 0). Para calcular el resto usar:  **resto = dividendo % 2**.
+ - usar esta variable para determinar si el número es par o impar (Un número es par si el resto de la división sobre 2 es igual a 0). Para calcular el resto usar:  **resto = dividendo % 2**.
 
- 2) Dada dos palabras, "tren" y "edificio", hacer un programa que nos permita calcular cual palabra es más larga. Usar la funcion **length**
+ 2) Dada dos palabras, "tren" y "edificio", hacer un programa que nos permita calcular cuál palabra es más larga. Usar la función **length**
 
  3) Escriba un programa que muestre la tabla de multiplicar del 1 al 10 del número 9. Se puede usar la función **while** o **for**.
 
@@ -37,4 +37,4 @@
 
  4) Escribir una función con el nombre "multiplicar" que me permita pasarle un número como párametro y lo multiplique x **23** y retorne el resultado. Usar esta funcion en otra variable y mostrar el resultado con el **console.log**
 
- 5) Escribir un programa que inicie un array vacío y luego vaya almacenando número aleatorios. Puede usar la variable "numeroRandom" del ejercicio 1. 
+ 5) Escribir un programa que inicie un array vacío y luego vaya almacenando números aleatorios. Puede usar la variable "numeroRandom" del ejercicio 1. 
