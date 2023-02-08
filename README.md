@@ -9,6 +9,8 @@
 6) Muestra la variable resultado en consula
 7) Crea un repositorio en Github y sube tu código, luego comparte el link de tu repositorio
 
+---
+
 ### TP 2
 1) La variable definida abajo almacena un numero entero entre 1 y 100 de forma aleatoria, es decir que cada vez que se vuelva a ejectuar el codigo obtendrá un número nuevo aleatorio.
 
@@ -39,6 +41,8 @@
 
  5) Escribir un programa que inicie un array vacío y luego vaya almacenando números aleatorios. Puede usar la variable "numeroRandom" del ejercicio 1. 
 
+---
+
  ### TP 3
  1) Escribir un programa que pida al usuario una palabra y la muestre por pantalla 10 veces.
 
@@ -58,7 +62,9 @@
 
   5) Escribir un programa que pida al usuario una palabra y luego muestre por pantalla una a una las letras de la palabra introducida empezando por la última.
 
-### TP 3
+---
+
+### TP 4
 1) Escribir una función a la que se le pase una cadena "nombre" y muestre por pantalla el saludo ¡hola nombre!.
 
 2) Escribir un programa que le pida al usuario que ingrese su nombre apellido edad y muestre un objeto con los datos ingresados.
